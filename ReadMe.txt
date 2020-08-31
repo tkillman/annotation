@@ -1,7 +1,6 @@
+@Count100 ì–´ë…¸í…Œì´ì…˜ì„ ë§Œë“¤ê³ 
 
-@Count100 ¾î³ëÅ×ÀÌ¼ÇÀ» ¸¸µé°í
-
-method¿¡ @Count100 ¾î³ëÅ×ÀÌ¼ÇÀ» ºÙÀÌ¸é 100¹ø ½ÇÇàµÇµµ·Ï ¸¸µé¾îº¸¼¼¿ä.
+methodì— @Count100 ì–´ë…¸í…Œì´ì…˜ì„ ë¶™ì´ë©´ 100ë²ˆ ì‹¤í–‰ë˜ë„ë¡ ë§Œë“¤ì–´ë³´ì„¸ìš”.
 
 @Count100 
 method
