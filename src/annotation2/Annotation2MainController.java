@@ -12,6 +12,7 @@ public class Annotation2MainController {
 			if (method.isAnnotationPresent(TestAnntation.class)) {
 				TestAnntation testAnntation = method.getAnnotation(TestAnntation.class);
 				System.out.println(testAnntation.message());
+				System.out.println(testAnntation.myNum());
 			}
 		} catch (NoSuchMethodException e) {
 			// TODO Auto-generated catch block

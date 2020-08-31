@@ -9,4 +9,5 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 public @interface TestAnntation {
 	String message() default "default message 입니다.";
+	int myNum();
 }
